@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Users\Petar\Desktop\Metropolitan Domaci Zadaci\Projektni zadaci\CS323-PZ(C++)-Digital_Synth\CS323-PZ(C++)-Digital_Synth\Main.cpp(388,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Petar\Desktop\Metropolitan Domaci Zadaci\Projektni zadaci\CS323-PZ(C++)-Digital_Synth\CS323-PZ(C++)-Digital_Synth\OscilatorThread.h(53,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Petar\Desktop\Metropolitan Domaci Zadaci\Projektni zadaci\CS323-PZ(C++)-Digital_Synth\CS323-PZ(C++)-Digital_Synth\OscilatorThread.h(35): message : while compiling class template member function 'bool NoiseGenerator<short>::Generate(std::wstring,unsigned int,unsigned int,unsigned int,unsigned int)'
+C:\Users\Petar\Desktop\Metropolitan Domaci Zadaci\Projektni zadaci\CS323-PZ(C++)-Digital_Synth\CS323-PZ(C++)-Digital_Synth\OscilatorThread.h(28): message : see reference to function template instantiation 'bool NoiseGenerator<short>::Generate(std::wstring,unsigned int,unsigned int,unsigned int,unsigned int)' being compiled
+C:\Users\Petar\Desktop\Metropolitan Domaci Zadaci\Projektni zadaci\CS323-PZ(C++)-Digital_Synth\CS323-PZ(C++)-Digital_Synth\Main.cpp(447): message : see reference to class template instantiation 'NoiseGenerator<short>' being compiled
+C:\Users\Petar\Desktop\Metropolitan Domaci Zadaci\Projektni zadaci\CS323-PZ(C++)-Digital_Synth\CS323-PZ(C++)-Digital_Synth\OscilatorThread.h(166,1): warning C4312: 'type cast': conversion from 'DWORD' to 'NoiseGenerator<short> *' of greater size
+C:\Users\Petar\Desktop\Metropolitan Domaci Zadaci\Projektni zadaci\CS323-PZ(C++)-Digital_Synth\CS323-PZ(C++)-Digital_Synth\OscilatorThread.h(165): message : while compiling class template member function 'void NoiseGenerator<short>::waveOutProcWrap(HWAVEOUT,UINT,DWORD,DWORD,DWORD)'
+C:\Users\Petar\Desktop\Metropolitan Domaci Zadaci\Projektni zadaci\CS323-PZ(C++)-Digital_Synth\CS323-PZ(C++)-Digital_Synth\OscilatorThread.h(64): message : see reference to function template instantiation 'void NoiseGenerator<short>::waveOutProcWrap(HWAVEOUT,UINT,DWORD,DWORD,DWORD)' being compiled
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 470 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CS323-PZ(C++)-Digital_Synth.vcxproj -> C:\Users\Petar\Desktop\Metropolitan Domaci Zadaci\Projektni zadaci\CS323-PZ(C++)-Digital_Synth\x64\Release\CS323-PZ(C++)-Digital_Synth.exe
